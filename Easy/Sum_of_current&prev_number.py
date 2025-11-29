@@ -1,3 +1,4 @@
+#For numbers from 0 to 10, print the sum of the current number and the previous number
 for i in range(0, 11):
     if i == 1 or i == 0:
         prev_number = 0

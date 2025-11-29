@@ -1,2 +1,3 @@
+# This is a simple Python program that prints "Hello World" to the console.
 a = "Hello World"
 print(a)
